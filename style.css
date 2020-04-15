@@ -18,6 +18,19 @@
 	background-color:white;
 }
 
+.logo {
+	background-image:url("img/logo.jpg");
+	background-repeat:no-repeat;
+}
+
+ul li:hover {
+	background-color:orange;
+	border-radius:15px;
+}
+
+ul li:active {
+	background-color:green;
+}
 
 
 
